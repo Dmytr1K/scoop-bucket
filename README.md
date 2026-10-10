@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/Dmytr1K/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Dmytr1K/scoop-bucket/actions/workflows/ci.yml)
 [![Excavator](https://github.com/Dmytr1K/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Dmytr1K/scoop-bucket/actions/workflows/excavator.yml)
+[![License](https://img.shields.io/github/license/Dmytr1K/scoop-bucket)](https://github.com/Dmytr1K/scoop-bucket/blob/main/LICENSE)
 
 My personal third-party bucket (repository) for [Scoop](https://scoop.sh), containing custom manifests, useful utilities, and applications for Windows.
 
