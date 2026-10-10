@@ -26,7 +26,7 @@ scoop install dmytr1k/<app_name>
 
 | Application | Description |
 | :--- | :--- |
-| `app-name` | *Description will appear once the first manifests are added* |
+| `diffutils` | Cross-platform reimplementation of GNU diffutils |
 
 ---
 
