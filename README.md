@@ -30,7 +30,7 @@ scoop install dmytr1k/<app_name>
 
 | Application | Description |
 | :--- | :--- |
-| `uutils-diffutils` | Cross-platform reimplementation of GNU diffutils |
+| [`uutils-diffutils`](https://github.com/uutils/diffutils) | Cross-platform reimplementation of GNU diffutils |
 
 ---
 
