@@ -23,5 +23,17 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/tmp": true
-    }
+    },
+    "cSpell.words": [
+        "autopr",
+        "checkhashes",
+        "checkurls",
+        "checkver",
+        "diffutils",
+        "formatjson",
+        "lessmsi",
+        "potatoqualitee",
+        "psmodulecache",
+        "uutils",
+    ],
 }
